@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loan Guide</string>
+
+    <string name="guide_icon_description">Guide Icon</string>
+
+    <!-- 添加其他指南项的标题 -->
+    <string name="guide_title_paypal">Create PayPal Account</string>
+    <string name="guide_title_get_loan">How to Get a Loan</string>
+
+    <!-- 添加其他指南项的描述 -->
+    <string name="guide_desc_paypal">Learn how to create a PayPal account for online transactions.</string>
+    <string name="guide_desc_get_loan">Discover the steps to get a loan for your financial needs.</string>
+</resources>
